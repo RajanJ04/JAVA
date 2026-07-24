@@ -1,4 +1,3 @@
-package Loops;
 //PRINT NUMBERS FROM 1 TO N
 
 import java.util.*;
