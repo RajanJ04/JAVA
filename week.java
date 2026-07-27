@@ -21,6 +21,5 @@ import java.util.*;
             break;
             default : System.out.println("INVALID INPUT !");
         }
-       
     }
  }
