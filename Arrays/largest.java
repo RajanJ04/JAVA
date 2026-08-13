@@ -1,3 +1,5 @@
+package Arrays;
+
 public class largest {
     public static int Getlargest(int number[]){
         int largest = Integer.MIN_VALUE;

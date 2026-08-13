@@ -15,7 +15,7 @@ public class linear {
     public static void main(String args[]){
         int marks[] = {50, 67, 97, 56, 87};
         Scanner sc = new Scanner(System.in);
-
+        
         System.out.print("Enter the key to search: ");
         int key = sc.nextInt();
         
