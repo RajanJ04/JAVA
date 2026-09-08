@@ -1,3 +1,4 @@
+// CHECK IF THE NUMBER IS PRIME OR NOT 
 package Loops;
 import java.util.*;
 public class prime {
